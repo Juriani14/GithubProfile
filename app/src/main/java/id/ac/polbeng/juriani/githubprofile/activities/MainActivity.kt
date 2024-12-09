@@ -12,6 +12,7 @@ import id.ac.polbeng.juriani.githubprofile.helpers.Config
 import id.ac.polbeng.juriani.githubprofile.models.GithubUser
 import id.ac.polbeng.juriani.githubprofile.viewmodels.MainViewModel
 
+//juriani 6304221428
 
 class MainActivity : AppCompatActivity() {
 
