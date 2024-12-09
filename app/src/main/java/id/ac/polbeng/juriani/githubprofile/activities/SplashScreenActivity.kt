@@ -1,5 +1,5 @@
 package id.ac.polbeng.juriani.githubprofile.activities
-
+//juriani 6304221428
 import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
